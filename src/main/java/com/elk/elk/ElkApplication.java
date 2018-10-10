@@ -17,6 +17,6 @@ public class ElkApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... arg0) throws Exception {
-		logger.info("=========hello--World cIa========pea");
+		logger.info("=========hello--World c========");
 	}
 }
